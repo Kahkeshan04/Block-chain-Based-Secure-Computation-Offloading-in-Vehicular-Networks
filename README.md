@@ -59,7 +59,7 @@
 
 ## System Architecture
 
-![Alt text](/readme.md/SystemArchitecture.png)
+![Alt text](/SystemArchitecture.png)
 
 ### Implementation
 
