@@ -59,7 +59,27 @@
 
 ## System Architecture
 
-![Alt text](/SystemArchitecture.png)
+![Alt text](/UML/SystemArchitecture.png)
+
+## Flow Chart
+
+![Alt text](/UML/FlowChart.png)
+
+## Class Diagram
+
+![Alt text](/UML/Class.png)
+
+## Data Flow Diagram
+
+![Alt text](/UML/DataFlow.png)
+
+## Use Case Diagram
+
+![Alt text](/UML/UseCase.png)
+
+## Sequence Diagram 
+
+![Alt text](/UML/Sequence.png)
 
 ### Implementation
 
